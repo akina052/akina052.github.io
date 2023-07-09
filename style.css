@@ -1,0 +1,49 @@
+
+
+
+body{
+    font-family: sans-serif;
+}
+
+.header {
+    background-color:#008080;
+    color: #ffffff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 0px 50px;
+  }
+  
+  .header-list li {
+    list-style:none;
+    float: right;
+    padding: 33px 20px;
+  }
+  
+  .main{
+    margin:40px;
+  }
+  
+  h2{
+    border-bottom:1px solid;
+    width: 300px;
+    text-align:center;
+    font-size: 30px;
+  }
+  
+  .main1 p{
+    margin-right:270px;
+  }
+  
+  
+  img{
+    width:20%;
+    height:20%;
+    display: block;
+    margin-left:auto;
+  }
+  
+  
